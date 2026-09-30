@@ -1,0 +1,8 @@
+rule,rows_affected,pct_of_raw
+community_area_imputed_from_beat,613547,7.881
+district_missing_or_inconsistent,337299,4.333
+invalid_or_missing_coordinates,86966,1.117
+primary_type_variants_merged,3,0.0
+location_desc_variants_merged,2,0.0
+duplicate_id_versions_removed,0,0.0
+year_mismatch_fixed,0,0.0

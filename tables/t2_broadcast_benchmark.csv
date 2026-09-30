@@ -1,0 +1,4 @@
+approach,seconds
+DataFrame sort-merge join,0.13
+DataFrame broadcast hash join,0.05
+RDD reduceByKey + broadcast variable,35.83

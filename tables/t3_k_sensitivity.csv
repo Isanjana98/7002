@@ -1,0 +1,5 @@
+k,silhouette,weighted_district_purity,median_zone_area_km2,cross_boundary_clusters,HAZ_not_aligned
+3,0.359,0.122,82.218,3,2
+6,0.413,0.118,69.341,6,3
+12,0.394,0.172,48.211,12,6
+15,0.38,0.204,39.301,14,8
